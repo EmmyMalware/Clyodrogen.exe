@@ -1,0 +1,8 @@
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\bin\Debug\Clyodrogen.exe
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\bin\Debug\Clyodrogen.pdb
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.csproj.AssemblyReference.cache
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.Properties.Resources.resources
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.csproj.GenerateResource.cache
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.csproj.CoreCompileInputs.cache
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.exe
+C:\Users\emmy\source\repos\Clyodrogen\Clyodrogen\obj\Debug\Clyodrogen.pdb
